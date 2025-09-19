@@ -24,8 +24,6 @@ repository               : "chuangwang123/chuangwang123.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "details"
-  pronouns         : "He" 
   bio              : "Master student"
   location         : "Beijing"
   employer         : "Beihang University"
