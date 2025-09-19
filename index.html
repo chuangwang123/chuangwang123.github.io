@@ -1,0 +1,1898 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="widnth=device-width, initial-scale=1.0">
+  <meta name="description" content="Chuang Wang - Homepage">
+
+
+  <title>Chuang Wang - Homepage</title>
+
+
+  <link rel="stylesheet" href="./Chuang Wang - Homepage_files/bootstrap.min.css">
+  <link rel="stylesheet" href="./Chuang Wang - Homepage_files/all.min.css">
+  <link rel="stylesheet" href="./Chuang Wang - Homepage_files/academicons.min.css">
+  <link rel="stylesheet" href="./Chuang Wang - Homepage_files/charts.min.css">
+  <link id="theme-style" rel="stylesheet" href="./Chuang Wang - Homepage_files/main.css">
+
+  <link rel="icon" type="image/png" href="./Chuang Wang - Homepage_files/plant.png">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '');
+</script> -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+  <!-- <script type="module" src="/assets/js/background_box.js"></script> -->
+  <script type="module" src="./Chuang Wang - Homepage_files/background_star.js.下载"></script>
+
+  <style type="text/css">
+    .dg ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      clear: both
+    }
+
+    .dg.ac {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 0;
+      z-index: 0
+    }
+
+    .dg:not(.ac) .main {
+      overflow: hidden
+    }
+
+    .dg.main {
+      -webkit-transition: opacity .1s linear;
+      -o-transition: opacity .1s linear;
+      -moz-transition: opacity .1s linear;
+      transition: opacity .1s linear
+    }
+
+    .dg.main.taller-than-window {
+      overflow-y: auto
+    }
+
+    .dg.main.taller-than-window .close-button {
+      opacity: 1;
+      margin-top: -1px;
+      border-top: 1px solid #2c2c2c
+    }
+
+    .dg.main ul.closed .close-button {
+      opacity: 1 !important
+    }
+
+    .dg.main:hover .close-button,
+    .dg.main .close-button.drag {
+      opacity: 1
+    }
+
+    .dg.main .close-button {
+      -webkit-transition: opacity .1s linear;
+      -o-transition: opacity .1s linear;
+      -moz-transition: opacity .1s linear;
+      transition: opacity .1s linear;
+      border: 0;
+      line-height: 19px;
+      height: 20px;
+      cursor: pointer;
+      text-align: center;
+      background-color: #000
+    }
+
+    .dg.main .close-button.close-top {
+      position: relative
+    }
+
+    .dg.main .close-button.close-bottom {
+      position: absolute
+    }
+
+    .dg.main .close-button:hover {
+      background-color: #111
+    }
+
+    .dg.a {
+      float: right;
+      margin-right: 15px;
+      overflow-y: visible
+    }
+
+    .dg.a.has-save>ul.close-top {
+      margin-top: 0
+    }
+
+    .dg.a.has-save>ul.close-bottom {
+      margin-top: 27px
+    }
+
+    .dg.a.has-save>ul.closed {
+      margin-top: 0
+    }
+
+    .dg.a .save-row {
+      top: 0;
+      z-index: 1002
+    }
+
+    .dg.a .save-row.close-top {
+      position: relative
+    }
+
+    .dg.a .save-row.close-bottom {
+      position: fixed
+    }
+
+    .dg li {
+      -webkit-transition: height .1s ease-out;
+      -o-transition: height .1s ease-out;
+      -moz-transition: height .1s ease-out;
+      transition: height .1s ease-out;
+      -webkit-transition: overflow .1s linear;
+      -o-transition: overflow .1s linear;
+      -moz-transition: overflow .1s linear;
+      transition: overflow .1s linear
+    }
+
+    .dg li:not(.folder) {
+      cursor: auto;
+      height: 27px;
+      line-height: 27px;
+      padding: 0 4px 0 5px
+    }
+
+    .dg li.folder {
+      padding: 0;
+      border-left: 4px solid rgba(0, 0, 0, 0)
+    }
+
+    .dg li.title {
+      cursor: pointer;
+      margin-left: -4px
+    }
+
+    .dg .closed li:not(.title),
+    .dg .closed ul li,
+    .dg .closed ul li>* {
+      height: 0;
+      overflow: hidden;
+      border: 0
+    }
+
+    .dg .cr {
+      clear: both;
+      padding-left: 3px;
+      height: 27px;
+      overflow: hidden
+    }
+
+    .dg .property-name {
+      cursor: default;
+      float: left;
+      clear: left;
+      width: 40%;
+      overflow: hidden;
+      text-overflow: ellipsis
+    }
+
+    .dg .c {
+      float: left;
+      width: 60%;
+      position: relative
+    }
+
+    .dg .c input[type=text] {
+      border: 0;
+      margin-top: 4px;
+      padding: 3px;
+      width: 100%;
+      float: right
+    }
+
+    .dg .has-slider input[type=text] {
+      width: 30%;
+      margin-left: 0
+    }
+
+    .dg .slider {
+      float: left;
+      width: 66%;
+      margin-left: -5px;
+      margin-right: 0;
+      height: 19px;
+      margin-top: 4px
+    }
+
+    .dg .slider-fg {
+      height: 100%
+    }
+
+    .dg .c input[type=checkbox] {
+      margin-top: 7px
+    }
+
+    .dg .c select {
+      margin-top: 5px
+    }
+
+    .dg .cr.function,
+    .dg .cr.function .property-name,
+    .dg .cr.function *,
+    .dg .cr.boolean,
+    .dg .cr.boolean * {
+      cursor: pointer
+    }
+
+    .dg .cr.color {
+      overflow: visible
+    }
+
+    .dg .selector {
+      display: none;
+      position: absolute;
+      margin-left: -9px;
+      margin-top: 23px;
+      z-index: 10
+    }
+
+    .dg .c:hover .selector,
+    .dg .selector.drag {
+      display: block
+    }
+
+    .dg li.save-row {
+      padding: 0
+    }
+
+    .dg li.save-row .button {
+      display: inline-block;
+      padding: 0px 6px
+    }
+
+    .dg.dialogue {
+      background-color: #222;
+      width: 460px;
+      padding: 15px;
+      font-size: 13px;
+      line-height: 15px
+    }
+
+    #dg-new-constructor {
+      padding: 10px;
+      color: #222;
+      font-family: Monaco, monospace;
+      font-size: 10px;
+      border: 0;
+      resize: none;
+      box-shadow: inset 1px 1px 1px #888;
+      word-wrap: break-word;
+      margin: 12px 0;
+      display: block;
+      width: 440px;
+      overflow-y: scroll;
+      height: 100px;
+      position: relative
+    }
+
+    #dg-local-explain {
+      display: none;
+      font-size: 11px;
+      line-height: 17px;
+      border-radius: 3px;
+      background-color: #333;
+      padding: 8px;
+      margin-top: 10px
+    }
+
+    #dg-local-explain code {
+      font-size: 10px
+    }
+
+    #dat-gui-save-locally {
+      display: none
+    }
+
+    .dg {
+      color: #eee;
+      font: 11px 'Lucida Grande', sans-serif;
+      text-shadow: 0 -1px 0 #111
+    }
+
+    .dg.main::-webkit-scrollbar {
+      width: 5px;
+      background: #1a1a1a
+    }
+
+    .dg.main::-webkit-scrollbar-corner {
+      height: 0;
+      display: none
+    }
+
+    .dg.main::-webkit-scrollbar-thumb {
+      border-radius: 5px;
+      background: #676767
+    }
+
+    .dg li:not(.folder) {
+      background: #1a1a1a;
+      border-bottom: 1px solid #2c2c2c
+    }
+
+    .dg li.save-row {
+      line-height: 25px;
+      background: #dad5cb;
+      border: 0
+    }
+
+    .dg li.save-row select {
+      margin-left: 5px;
+      width: 108px
+    }
+
+    .dg li.save-row .button {
+      margin-left: 5px;
+      margin-top: 1px;
+      border-radius: 2px;
+      font-size: 9px;
+      line-height: 7px;
+      padding: 4px 4px 5px 4px;
+      background: #c5bdad;
+      color: #fff;
+      text-shadow: 0 1px 0 #b0a58f;
+      box-shadow: 0 -1px 0 #b0a58f;
+      cursor: pointer
+    }
+
+    .dg li.save-row .button.gears {
+      background: #c5bdad url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAANCAYAAAB/9ZQ7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQJJREFUeNpiYKAU/P//PwGIC/ApCABiBSAW+I8AClAcgKxQ4T9hoMAEUrxx2QSGN6+egDX+/vWT4e7N82AMYoPAx/evwWoYoSYbACX2s7KxCxzcsezDh3evFoDEBYTEEqycggWAzA9AuUSQQgeYPa9fPv6/YWm/Acx5IPb7ty/fw+QZblw67vDs8R0YHyQhgObx+yAJkBqmG5dPPDh1aPOGR/eugW0G4vlIoTIfyFcA+QekhhHJhPdQxbiAIguMBTQZrPD7108M6roWYDFQiIAAv6Aow/1bFwXgis+f2LUAynwoIaNcz8XNx3Dl7MEJUDGQpx9gtQ8YCueB+D26OECAAQDadt7e46D42QAAAABJRU5ErkJggg==) 2px 1px no-repeat;
+      height: 7px;
+      width: 8px
+    }
+
+    .dg li.save-row .button:hover {
+      background-color: #bab19e;
+      box-shadow: 0 -1px 0 #b0a58f
+    }
+
+    .dg li.folder {
+      border-bottom: 0
+    }
+
+    .dg li.title {
+      padding-left: 16px;
+      background: #000 url(data:image/gif;base64,R0lGODlhBQAFAJEAAP////Pz8////////yH5BAEAAAIALAAAAAAFAAUAAAIIlI+hKgFxoCgAOw==) 6px 10px no-repeat;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2)
+    }
+
+    .dg .closed li.title {
+      background-image: url(data:image/gif;base64,R0lGODlhBQAFAJEAAP////Pz8////////yH5BAEAAAIALAAAAAAFAAUAAAIIlGIWqMCbWAEAOw==)
+    }
+
+    .dg .cr.boolean {
+      border-left: 3px solid #806787
+    }
+
+    .dg .cr.color {
+      border-left: 3px solid
+    }
+
+    .dg .cr.function {
+      border-left: 3px solid #e61d5f
+    }
+
+    .dg .cr.number {
+      border-left: 3px solid #2FA1D6
+    }
+
+    .dg .cr.number input[type=text] {
+      color: #2FA1D6
+    }
+
+    .dg .cr.string {
+      border-left: 3px solid #1ed36f
+    }
+
+    .dg .cr.string input[type=text] {
+      color: #1ed36f
+    }
+
+    .dg .cr.function:hover,
+    .dg .cr.boolean:hover {
+      background: #111
+    }
+
+    .dg .c input[type=text] {
+      background: #303030;
+      outline: none
+    }
+
+    .dg .c input[type=text]:hover {
+      background: #3c3c3c
+    }
+
+    .dg .c input[type=text]:focus {
+      background: #494949;
+      color: #fff
+    }
+
+    .dg .c .slider {
+      background: #303030;
+      cursor: ew-resize
+    }
+
+    .dg .c .slider-fg {
+      background: #2FA1D6;
+      max-width: 100%
+    }
+
+    .dg .c .slider:hover {
+      background: #3c3c3c
+    }
+
+    .dg .c .slider:hover .slider-fg {
+      background: #44abda
+    }
+  </style>
+  <style type="text/css">
+    .dg ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      clear: both
+    }
+
+    .dg.ac {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 0;
+      z-index: 0
+    }
+
+    .dg:not(.ac) .main {
+      overflow: hidden
+    }
+
+    .dg.main {
+      -webkit-transition: opacity .1s linear;
+      -o-transition: opacity .1s linear;
+      -moz-transition: opacity .1s linear;
+      transition: opacity .1s linear
+    }
+
+    .dg.main.taller-than-window {
+      overflow-y: auto
+    }
+
+    .dg.main.taller-than-window .close-button {
+      opacity: 1;
+      margin-top: -1px;
+      border-top: 1px solid #2c2c2c
+    }
+
+    .dg.main ul.closed .close-button {
+      opacity: 1 !important
+    }
+
+    .dg.main:hover .close-button,
+    .dg.main .close-button.drag {
+      opacity: 1
+    }
+
+    .dg.main .close-button {
+      -webkit-transition: opacity .1s linear;
+      -o-transition: opacity .1s linear;
+      -moz-transition: opacity .1s linear;
+      transition: opacity .1s linear;
+      border: 0;
+      line-height: 19px;
+      height: 20px;
+      cursor: pointer;
+      text-align: center;
+      background-color: #000
+    }
+
+    .dg.main .close-button.close-top {
+      position: relative
+    }
+
+    .dg.main .close-button.close-bottom {
+      position: absolute
+    }
+
+    .dg.main .close-button:hover {
+      background-color: #111
+    }
+
+    .dg.a {
+      float: right;
+      margin-right: 15px;
+      overflow-y: visible
+    }
+
+    .dg.a.has-save>ul.close-top {
+      margin-top: 0
+    }
+
+    .dg.a.has-save>ul.close-bottom {
+      margin-top: 27px
+    }
+
+    .dg.a.has-save>ul.closed {
+      margin-top: 0
+    }
+
+    .dg.a .save-row {
+      top: 0;
+      z-index: 1002
+    }
+
+    .dg.a .save-row.close-top {
+      position: relative
+    }
+
+    .dg.a .save-row.close-bottom {
+      position: fixed
+    }
+
+    .dg li {
+      -webkit-transition: height .1s ease-out;
+      -o-transition: height .1s ease-out;
+      -moz-transition: height .1s ease-out;
+      transition: height .1s ease-out;
+      -webkit-transition: overflow .1s linear;
+      -o-transition: overflow .1s linear;
+      -moz-transition: overflow .1s linear;
+      transition: overflow .1s linear
+    }
+
+    .dg li:not(.folder) {
+      cursor: auto;
+      height: 27px;
+      line-height: 27px;
+      padding: 0 4px 0 5px
+    }
+
+    .dg li.folder {
+      padding: 0;
+      border-left: 4px solid rgba(0, 0, 0, 0)
+    }
+
+    .dg li.title {
+      cursor: pointer;
+      margin-left: -4px
+    }
+
+    .dg .closed li:not(.title),
+    .dg .closed ul li,
+    .dg .closed ul li>* {
+      height: 0;
+      overflow: hidden;
+      border: 0
+    }
+
+    .dg .cr {
+      clear: both;
+      padding-left: 3px;
+      height: 27px;
+      overflow: hidden
+    }
+
+    .dg .property-name {
+      cursor: default;
+      float: left;
+      clear: left;
+      width: 40%;
+      overflow: hidden;
+      text-overflow: ellipsis
+    }
+
+    .dg .c {
+      float: left;
+      width: 60%;
+      position: relative
+    }
+
+    .dg .c input[type=text] {
+      border: 0;
+      margin-top: 4px;
+      padding: 3px;
+      width: 100%;
+      float: right
+    }
+
+    .dg .has-slider input[type=text] {
+      width: 30%;
+      margin-left: 0
+    }
+
+    .dg .slider {
+      float: left;
+      width: 66%;
+      margin-left: -5px;
+      margin-right: 0;
+      height: 19px;
+      margin-top: 4px
+    }
+
+    .dg .slider-fg {
+      height: 100%
+    }
+
+    .dg .c input[type=checkbox] {
+      margin-top: 7px
+    }
+
+    .dg .c select {
+      margin-top: 5px
+    }
+
+    .dg .cr.function,
+    .dg .cr.function .property-name,
+    .dg .cr.function *,
+    .dg .cr.boolean,
+    .dg .cr.boolean * {
+      cursor: pointer
+    }
+
+    .dg .cr.color {
+      overflow: visible
+    }
+
+    .dg .selector {
+      display: none;
+      position: absolute;
+      margin-left: -9px;
+      margin-top: 23px;
+      z-index: 10
+    }
+
+    .dg .c:hover .selector,
+    .dg .selector.drag {
+      display: block
+    }
+
+    .dg li.save-row {
+      padding: 0
+    }
+
+    .dg li.save-row .button {
+      display: inline-block;
+      padding: 0px 6px
+    }
+
+    .dg.dialogue {
+      background-color: #222;
+      width: 460px;
+      padding: 15px;
+      font-size: 13px;
+      line-height: 15px
+    }
+
+    #dg-new-constructor {
+      padding: 10px;
+      color: #222;
+      font-family: Monaco, monospace;
+      font-size: 10px;
+      border: 0;
+      resize: none;
+      box-shadow: inset 1px 1px 1px #888;
+      word-wrap: break-word;
+      margin: 12px 0;
+      display: block;
+      width: 440px;
+      overflow-y: scroll;
+      height: 100px;
+      position: relative
+    }
+
+    #dg-local-explain {
+      display: none;
+      font-size: 11px;
+      line-height: 17px;
+      border-radius: 3px;
+      background-color: #333;
+      padding: 8px;
+      margin-top: 10px
+    }
+
+    #dg-local-explain code {
+      font-size: 10px
+    }
+
+    #dat-gui-save-locally {
+      display: none
+    }
+
+    .dg {
+      color: #eee;
+      font: 11px 'Lucida Grande', sans-serif;
+      text-shadow: 0 -1px 0 #111
+    }
+
+    .dg.main::-webkit-scrollbar {
+      width: 5px;
+      background: #1a1a1a
+    }
+
+    .dg.main::-webkit-scrollbar-corner {
+      height: 0;
+      display: none
+    }
+
+    .dg.main::-webkit-scrollbar-thumb {
+      border-radius: 5px;
+      background: #676767
+    }
+
+    .dg li:not(.folder) {
+      background: #1a1a1a;
+      border-bottom: 1px solid #2c2c2c
+    }
+
+    .dg li.save-row {
+      line-height: 25px;
+      background: #dad5cb;
+      border: 0
+    }
+
+    .dg li.save-row select {
+      margin-left: 5px;
+      width: 108px
+    }
+
+    .dg li.save-row .button {
+      margin-left: 5px;
+      margin-top: 1px;
+      border-radius: 2px;
+      font-size: 9px;
+      line-height: 7px;
+      padding: 4px 4px 5px 4px;
+      background: #c5bdad;
+      color: #fff;
+      text-shadow: 0 1px 0 #b0a58f;
+      box-shadow: 0 -1px 0 #b0a58f;
+      cursor: pointer
+    }
+
+    .dg li.save-row .button.gears {
+      background: #c5bdad url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAANCAYAAAB/9ZQ7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQJJREFUeNpiYKAU/P//PwGIC/ApCABiBSAW+I8AClAcgKxQ4T9hoMAEUrxx2QSGN6+egDX+/vWT4e7N82AMYoPAx/evwWoYoSYbACX2s7KxCxzcsezDh3evFoDEBYTEEqycggWAzA9AuUSQQgeYPa9fPv6/YWm/Acx5IPb7ty/fw+QZblw67vDs8R0YHyQhgObx+yAJkBqmG5dPPDh1aPOGR/eugW0G4vlIoTIfyFcA+QekhhHJhPdQxbiAIguMBTQZrPD7108M6roWYDFQiIAAv6Aow/1bFwXgis+f2LUAynwoIaNcz8XNx3Dl7MEJUDGQpx9gtQ8YCueB+D26OECAAQDadt7e46D42QAAAABJRU5ErkJggg==) 2px 1px no-repeat;
+      height: 7px;
+      width: 8px
+    }
+
+    .dg li.save-row .button:hover {
+      background-color: #bab19e;
+      box-shadow: 0 -1px 0 #b0a58f
+    }
+
+    .dg li.folder {
+      border-bottom: 0
+    }
+
+    .dg li.title {
+      padding-left: 16px;
+      background: #000 url(data:image/gif;base64,R0lGODlhBQAFAJEAAP////Pz8////////yH5BAEAAAIALAAAAAAFAAUAAAIIlI+hKgFxoCgAOw==) 6px 10px no-repeat;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2)
+    }
+
+    .dg .closed li.title {
+      background-image: url(data:image/gif;base64,R0lGODlhBQAFAJEAAP////Pz8////////yH5BAEAAAIALAAAAAAFAAUAAAIIlGIWqMCbWAEAOw==)
+    }
+
+    .dg .cr.boolean {
+      border-left: 3px solid #806787
+    }
+
+    .dg .cr.color {
+      border-left: 3px solid
+    }
+
+    .dg .cr.function {
+      border-left: 3px solid #e61d5f
+    }
+
+    .dg .cr.number {
+      border-left: 3px solid #2FA1D6
+    }
+
+    .dg .cr.number input[type=text] {
+      color: #2FA1D6
+    }
+
+    .dg .cr.string {
+      border-left: 3px solid #1ed36f
+    }
+
+    .dg .cr.string input[type=text] {
+      color: #1ed36f
+    }
+
+    .dg .cr.function:hover,
+    .dg .cr.boolean:hover {
+      background: #111
+    }
+
+    .dg .c input[type=text] {
+      background: #303030;
+      outline: none
+    }
+
+    .dg .c input[type=text]:hover {
+      background: #3c3c3c
+    }
+
+    .dg .c input[type=text]:focus {
+      background: #494949;
+      color: #fff
+    }
+
+    .dg .c .slider {
+      background: #303030;
+      cursor: ew-resize
+    }
+
+    .dg .c .slider-fg {
+      background: #2FA1D6;
+      max-width: 100%
+    }
+
+    .dg .c .slider:hover {
+      background: #3c3c3c
+    }
+
+    .dg .c .slider:hover .slider-fg {
+      background: #44abda
+    }
+  </style>
+  <style>
+    .crx_bdwk_down_wrap {
+      top: 70%;
+      left: 0;
+      position: fixed;
+      z-index: 99999999;
+      color: #fff;
+      user-select: none;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_loading {
+      background-color: #666;
+      cursor: wait;
+      width: 126px;
+      text-align: center;
+      padding: 16px 0;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_loading p {
+      font-size: 14px;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_loading small {
+      font-size: 10px;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_btn {
+      width: 126px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 14px;
+      background-color: #dd5a57;
+      position: relative;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types {
+      display: flex;
+      text-align: center;
+      align-items: center;
+      background-color: #666;
+      font-size: 12px;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types div {
+      position: relative;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types div:after {
+      content: ' ';
+      height: 12px;
+      width: 1px;
+      background-color: #eee;
+      position: absolute;
+      top: 10px;
+      right: 0;
+      transform: scaleX(0.5);
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types div:last-child:after {
+      display: none;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types_check {
+      flex: 1;
+      color: #dd5a57;
+      padding: 8px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    .crx_bdwk_down_wrap .crx_bdwk_down_types_uncheck {
+      flex: 1;
+      padding: 8px;
+      cursor: pointer;
+      color: #fff;
+      font-weight: lighter;
+    }
+  </style>
+</head>
+
+<body>
+
+
+  <!-- <canvas id="bg"></canvas> -->
+
+  <div class="wrapper">
+
+
+    <section class="section intro-section">
+
+
+      <div class="avatar-container">
+        <img class="avatar" src="./Chuang Wang - Homepage_files/pika.png" alt="avatar">
+      </div>
+
+      <div class="intro-container">
+
+        <div class="header">
+          <h2 class="name">Chuang Wang (王闯)</h2>
+
+          <h3 class="title">Master Student in BUAA (Beihang University)</h3>
+
+        </div>
+
+
+        <div class="contact">
+
+
+          <ul class="list-unstyled contact-list">
+
+
+            <li class="email">
+              <!-- <a class="link" href="mailto:fangzhouhong820@gmail.com">fangzhouhong820 [at] gmail.com</a> -->
+              chuangwang [at] buaa.edu.cn
+            </li>
+
+            <li class="google-scholar">
+              <a class="link" href="https://scholar.google.com.hk/citations?user=e0W4Q90AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>
+            </li>
+
+            <li class="github">
+              <a class="link" href="https://github.com/buaaer-stack" target="_blank">GitHub</a>
+            </li>
+
+
+          </ul>
+
+
+        </div>
+      </div>
+
+
+    </section>
+
+
+    <section class="section profile-section">
+
+      <div class="section-title">
+        About Me
+      </div>
+
+      <div class="details">
+
+        <p> I am a Master's student from Beihang University(BUAA). My supervisor is Associate Professor Qian
+          Yu.
+          And I am also an algorithm intern of <a href="https://aishiai.com/">AIsphere</a>,
+          where I work on video generation. My mentors are Dongdong Yu and Jinxiao Lin.
+          <!-- <p> I got my Undergraduate's degree from the BUAA. -->
+          <p> Recently, my research focuses on <b>deep generative models(Diffusion models and its application)
+              and sketch&SVG generation</b>.
+
+            <!-- <p>
+                    ✈️ I will be attending the ECCV 2024 conference in Milano If you are interested, I would be delighted to have a coffee chat to discuss the research and potential collaboration.
+                </p> -->
+      </div>
+
+    </section>
+
+
+    <section class="section news-section">
+      <div class="section-title">
+        News
+      </div>
+
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="time">[Dec. 2024] </div>
+          <div class="cont">
+            <p>One paper accepted to AAAI2025.</p>
+
+          </div>
+        </div>
+
+      </div>
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="time">[Mar. 2024] </div>
+          <div class="cont">
+            <p>One paper accepted to CVPR2024.</p>
+
+          </div>
+        </div>
+
+      </div>
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="time">[Sept. 2023] </div>
+          <div class="cont">
+            <p>One paper accepted to NIPS2023.</p>
+
+          </div>
+        </div>
+
+      </div>
+
+
+      <!-- <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Sept. 2023] </div>
+                    <div class="cont">
+                        <p>One paper accepted to NeurIPS2023.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Nov. 2022] </div>
+                    <div class="cont">
+                        <p>One paper accepted to AAAI2023.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Oct. 2022] </div>
+                    <div class="cont">
+                        <p>One paper accepted to EMNLP2022-Findings.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Jan. 2022] </div>
+                    <div class="cont">
+                        <p>We construct a benchmark for Chinese text recognition.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Dec. 2021] </div>
+                    <div class="cont">
+                        <p>One paper accepted to AAAI2022.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Apr. 2021] </div>
+                    <div class="cont">
+                        <p>One paper accepted to IJCAI2021.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="time">[Mar. 2021] </div>
+                    <div class="cont">
+                        <p>One paper accepted to CVPR2021.</p>
+
+                    </div>
+                </div>
+
+            </div> -->
+
+
+    </section>
+
+
+    <section class="section publications-section">
+
+      <div class="section-title">
+        Publications
+      </div>
+
+
+      <div class="publication-container">
+        <div class="teaser-container">
+          <img class="teaser" src="./Chuang Wang - Homepage_files/TrackGo.png" alt="TrackGo.png">
+        </div>
+
+
+        <div class="info-container">
+
+          <p class="title">
+
+            <a class="title_link" target="_blank">
+              Trackgo: A flexible and efficient method for controllable video generation
+            </a>
+
+          </p>
+
+          <div class="authors">
+            Haitao Zhou*, <b>Chuang Wang*</b>, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu<sup>†</sup>, Changhu Wang<sup>†</sup>
+          </div>
+
+          <div class="conference">
+            <!-- <p><em>Technical Report</em>, 2023</p> -->
+            <p><em>The Association for the Advancement of Artificial Intelligence</em> (<strong>AAAI</strong>), 2025</p>
+            <!-- <p>✨ <em><strong>Top10</strong> in the Hugging Face Space Trending List at Dec. 31st 2023; Featured as Space of the Week.</p></em> -->
+          </div>
+
+          <!-- <a class="url" href="https://arxiv.org/abs/2408.11475" target="_blank">[PDF]</a> -->
+
+          <!-- <a class="url" href="https://github.com/microsoft/unilm/tree/master/textdiffuser-2" target="_blank">[Code]</a>
+                    <a class="url" href="https://jingyechen.github.io/textdiffuser2/"
+                        target="_blank">[ProjectPage]</a>
+                    <a class="url" href="https://huggingface.co/spaces/JingyeChen22/TextDiffuser-2" target="_blank">[HuggingFace]</a>
+                    <a class="url" href="https://twitter.com/jingyechen10934/status/1735501701946462559"
+                        target="_blank">[Twitter]</a>
+                    <a class="url" href="https://mp.weixin.qq.com/s/ADI3wMYk_2DiO9lViR7D2Q"
+                        target="_blank">[PaperWeekly]</a>
+                    <a class="url" href="https://discord.gg/q7eHPupu" target="_blank">[Discord]</a>
+                    <a class="url" href="./Chuang Wang - Homepage_files/td2_gift.jpg" target="_blank">[?]</a> -->
+        </div>
+      </div>
+
+      <div class="publication-container">
+        <div class="teaser-container">
+          <img class="teaser" src="./Chuang Wang - Homepage_files/svgdreamer_cvpr2024.png" alt="svgdreamer_cvpr2024.png">
+        </div>
+
+
+        <div class="info-container">
+
+          <p class="title">
+
+            <a class="title_link" href="https://arxiv.org/abs/2312.16476" target="_blank">
+              SVGDreamer: Text Guided SVG Generation with Diffusion Model
+            </a>
+
+          </p>
+
+          <div class="authors">
+            Xingming Xing, Haitao Zhou, <b>Chuang Wang</b>, Jing Zhang, Dong Xu, Qian Yu<sup>†</sup>
+          </div>
+
+          <div class="conference">
+            <p><em>Computer Vision and Pattern Recognition</em>(<b>CVPR</b>), 2024</p>
+          </div>
+
+          <a class="url" href="https://arxiv.org/abs/2312.16476" target="_blank">[PDF]</a>
+          <a class="url" href="https://github.com/ximinng/SVGDreamer" target="_blank">[Code]</a>
+        </div>
+      </div>
+
+
+      <div class="publication-container">
+        <div class="teaser-container">
+          <img class="teaser" src="./Chuang Wang - Homepage_files/diffsketcher_nips2023.png" alt="diffsketcher_nips2023.png">
+        </div>
+
+
+        <div class="info-container">
+
+          <p class="title">
+
+            <a class="title_link" href="https://arxiv.org/abs/2306.14685" target="_blank">
+              DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models
+            </a>
+
+          </p>
+
+          <div class="authors">
+            Xingming Xing, <b>Chuang Wang</b>, Haitao Zhou, Jing Zhang, Qian Yu<sup>†</sup>, Dong Xu
+          </div>
+
+          <div class="conference">
+            <p><em>Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2023</p>
+            <!-- <p>✨ <em><strong>Top10</strong> in the Hugging Face Space Trending List at Jun. 29st 2023; Featured as Space of the Week.</p></em> -->
+          </div>
+
+          <a class="url" href="https://arxiv.org/abs/2306.14685" target="_blank">[PDF]</a>
+          <a class="url" href="https://github.com/ximinng/DiffSketcher" target="_blank">[Code]</a>
+          <!-- <a class="url" href="https://jingyechen.github.io/textdiffuser/"
+                        target="_blank">[ProjectPage]</a>
+                    <a class="url" href="https://huggingface.co/spaces/JingyeChen22/TextDiffuser"
+                        target="_blank">[HuggingFace]</a>
+                    <a class="url" href="https://colab.research.google.com/drive/115Qw0l5dhjlTtrbywMWRwhz9IxKE4_Dg?usp=sharing"
+                        target="_blank">[GoogleColab]</a>
+                    <a class="url" href="https://twitter.com/_akhaliq/status/1659382175253372929"
+                        target="_blank">[Twitter]</a>
+                    <a class="url" href="https://zhuanlan.zhihu.com/p/634465980"
+                        target="_blank">[Zhihu]</a> -->
+        </div>
+      </div>
+
+
+      <!-- <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/trocr.jpg" alt="trocr.jpg">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/pdf/2109.10282" target="_blank">TrOCR:
+                            Transformer-based Optical Character Recognition with Pre-trained Models
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p>Minghao Li, Tengchao Lv, <strong>Chuang Wang</strong>, Lei Cui, Yijuan Lu, Dinei Florencio,
+                            Cha Zhang, Zhoujun Li, Furu Wei</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>AAAI Conference on Artificial Intelligence</em> (<strong>AAAI</strong>), 2023</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/pdf/2109.10282" target="_blank">[PDF]</a>
+                    <a class="url" href="https://github.com/microsoft/unilm/tree/master/trocr"
+                        target="_blank">[Code]</a>
+                    <a class="url" href="https://huggingface.co/microsoft/trocr-base-printed"
+                        target="_blank">[HuggingFace]</a>
+
+                </div>
+            </div> -->
+
+
+      <!-- <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/xdoc.png" alt="xdoc.jpg">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/abs/2210.02849" target="_blank">XDoc: Unified
+                            Pre-training for Cross-Format Document Understanding
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>Empirical Methods in Natural Language Processing</em> (<strong>EMNLP-Findings</strong>),
+                            2022</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/abs/2210.02849" target="_blank">[PDF]</a>
+                    <a class="url" href="https://github.com/microsoft/unilm/tree/master/xdoc" target="_blank">[Code]</a>
+                    <a class="url" href="https://huggingface.co/microsoft/xdoc-base" target="_blank">[HuggingFace]</a>
+
+
+                </div>
+            </div> -->
+
+
+      <!-- <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/benchmark.jpg" alt="benchmark.jpg">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/abs/2112.15093" target="_blank">Benchmarking
+                            Chinese Text Recognition: Datasets, Baselines, and an Empirical Study
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Haiyang Yu, Jianqi Ma, Mengnan Guan, Xixi Xu, Xiaocong Wang,
+                            Shaobo Qu, Bin Li, Xiangyang Xue</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>Technical Report</em>, 2022</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/abs/2112.15093" target="_blank">[PDF]</a>
+
+
+
+                    <a class="url" href="https://github.com/FudanVI/benchmarking-chinese-text-recognition"
+                        target="_blank">[Code]</a>
+                    <a class="url" href="https://zhuanlan.zhihu.com/p/453513716" target="_blank">[Zhihu]</a>
+
+                </div>
+            </div>
+
+            <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/text-gestalt.jpg" alt="text-gestalt.jpg">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/abs/2112.08171" target="_blank">Text Gestalt:
+                            Stroke-Aware Scene Text Image Super-Resolution
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Haiyang Yu, Jianqi Ma, Bin Li, Xiangyang Xue</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>AAAI Conference on Artificial Intelligence</em> (<strong>AAAI</strong>), 2022</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/abs/2112.08171" target="_blank">[PDF]</a>
+
+
+
+                    <a class="url" href="https://github.com/FudanVI/FudanOCR/tree/main/text-gestalt"
+                        target="_blank">[Code]</a>
+
+
+
+
+
+
+                </div>
+            </div>
+
+            <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/stroke-level-decomposition.png"
+                        alt="stroke-level-decomposition.png">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/abs/2106.11613" target="_blank">Zero-Shot Chinese
+                            Character Recognition with Stroke-Level Decomposition
+
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Bin Li, Xiangyang Xue</p>
+                        </p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>International Joint Conference on Artifical intelligence</em> (<strong>IJCAI</strong>),
+                            2021</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/abs/2106.11613" target="_blank">[PDF]</a>
+
+                    <a class="url" href="https://github.com/FudanVI/FudanOCR/tree/main/stroke-level-decomposition"
+                        target="_blank">[Code]</a>
+
+
+
+
+
+
+                </div>
+            </div>
+
+            <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/scene-text-telescope.png"
+                        alt="scene-text-telescope.png">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link"
+                            href="https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html"
+                            target="_blank">Scene Text Telescope: Text-Focused Scene Image Super-Resolution
+                        </a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Bin Li, Xiangyang Xue</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<strong>CVPR</strong>),
+                            2021</p>
+                    </div>
+
+
+
+                    <a class="url"
+                        href="https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html"
+                        target="_blank">[PDF]</a>
+
+
+
+                    <a class="url" href="https://github.com/FudanVI/FudanOCR/tree/main/scene-text-telescope"
+                        target="_blank">[Code]</a>
+
+
+
+
+
+
+                </div>
+            </div>
+
+            <div class="publication-container">
+                <div class="teaser-container">
+                    <img class="teaser" src="./Chuang Wang - Homepage_files/MT-TransUNet.jpg" alt="MT-TransUNet.jpg">
+                </div>
+
+                <div class="info-container">
+
+                    <p class="title">
+
+                        <a class="title_link" href="https://arxiv.org/abs/2112.01767" target="_blank">MT-TransUNet:
+                            Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and
+                            Classification</a>
+
+                    </p>
+
+                    <div class="authors">
+                        <p><strong>Chuang Wang</strong>, Jieneng Chen, Zongwei Zhou, Bin Li, Alan Yuille, Yongyi Lu</p>
+                    </div>
+
+
+
+                    <div class="conference">
+                        <p><em>Technical Report</em>, 2021</p>
+                    </div>
+
+
+
+                    <a class="url" href="https://arxiv.org/abs/2112.01767" target="_blank">[PDF]</a>
+
+
+
+                    <a class="url" href="https://github.com/JingyeChen/MT-TransUNet" target="_blank">[Code]</a>
+
+
+
+
+
+
+                </div>
+            </div> -->
+
+    </section>
+
+
+    <section class="section experiences-section">
+      <div class="section-title">
+        Education
+      </div>
+
+
+      <!-- <div class="item">
+
+                <div class="upper-row">
+                    <div class="company">
+                        HKUST
+
+                    </div>
+                    <div class="location"> Hong Kong</div>
+                    <div class="time">Sept. 2022 – </div>
+                </div>
+
+                <div class="below-row">
+                    <div class="role">PhD Student in Computer Science, supervised by <a
+                            href="https://scholar.google.com/citations?hl=zh-CN&user=lLMX9hcAAAAJ&view_op=list_works&sortby=pubdate"
+                            target="_blank">Prof. Qifeng Chen</a>
+                    </div>
+                </div>
+
+
+
+
+            </div> -->
+
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="company">
+            Beihang University
+
+          </div>
+          <div class="location">Beijing</div>
+          <div class="time">Sept. 2023 – Jun. 2026</div>
+        </div>
+
+        <div class="below-row">
+          <div class="role">Master in Software Engineering, supervised by <a href="https://scholar.google.com.hk/citations?user=mmm90qgAAAAJ&hl=zh-CN" target="_blank">Prof.
+              Qian Yu</a>
+          </div>
+
+
+        </div>
+
+        <div class="item">
+
+          <div class="upper-row">
+            <div class="company">
+              Beihang University
+
+            </div>
+            <div class="location">Beijing</div>
+            <div class="time">Sept. 2018 – Jun. 2023</div>
+          </div>
+
+          <div class="below-row">
+            <div class="role">BSc in Software Engineering</div>
+          </div>
+
+
+        </div>
+
+
+    </section>
+
+
+    <section class="section experiences-section">
+      <div class="section-title">
+        Experiences
+      </div>
+
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="company">
+            AIsphere Tech
+
+          </div>
+          <div class="location"> Beijing, China.</div>
+          <div class="time">May. 2023 - </div>
+        </div>
+
+        <div class="below-row">
+          <div class="role">Research Intern, supervised by <a href="https://scholar.google.com/citations?user=B2RmjSYAAAAJ&hl=zh-CN" target="_blank">Dr. Dongdong Yu</a> and Jinxiao Lin
+
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="item">
+
+                <div class="upper-row">
+                    <div class="company">
+                        Microsoft Research Asia
+
+                    </div>
+                    <div class="location"> Beijing</div>
+                    <div class="time">Feb. 2022 – Jul. 2022, Dec. 2022 – Feb. 2024 </div>
+                </div>
+
+                <div class="below-row">
+                    <div class="role">Research Intern, supervised by <a
+                            href="https://scholar.google.com/citations?user=ajJQoUcAAAAJ&hl=zh-CN&oi=ao"
+                            target="_blank">Dr. Lei Cui</a>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="company">
+                        Johns Hopkins University
+
+                    </div>
+                    <div class="location"> U.S.A.</div>
+                    <div class="time">Apr. 2021 – Sept. 2021</div>
+                </div>
+
+                <div class="below-row">
+                    <div class="role">Summer Intern, supervised by <a
+                            href="https://scholar.google.com/citations?user=rIJ99V4AAAAJ&hl=zh-CN&oi=ao"
+                            target="_blank">Dr. Yongyi Lu</a>
+                        and <a href="https://scholar.google.com/citations?hl=zh-CN&user=FJ-huxgAAAAJ"
+                            target="_blank">Prof. Alan Yuille</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="company">
+                        University of Cambridge
+
+                    </div>
+                    <div class="location">Cambridge, U.K.</div>
+                    <div class="time">Jan. 2018 – Feb. 2018</div>
+                </div>
+
+                <div class="below-row">
+                    <div class="role">Visiting student of winter program</div>
+                </div>
+
+
+
+
+            </div> -->
+
+
+    </section>
+
+
+    <section class="section service-section">
+      <div class="section-title">
+        Services
+      </div>
+
+      <div class="item">
+
+        <div class="upper-row">
+          <div class="name">
+            <p><b>Conference Reviewer:</b> ACM MM2024, CVPR2024, CVPR2025</p>
+            <!-- <p><b>Journal Reviewer:</b> TMM</p> -->
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- <section class="section service-section">
+            <div class="section-title">
+                Teaching
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p><b>2023 Spring:</b> COMP 2011 Programming with C++</p>
+                        <p><b>2023 Fall:</b> COMP 2011 Programming with C++</p>
+                    </div>
+                </div>
+
+            </div>
+        </section> -->
+
+
+    <!-- <section class="section awards-section">
+            <div class="section-title">
+                Awards &amp; Scholarships
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Excellent Master Dissertation Award of Shanghai</p>
+
+                    </div>
+                    <div class="time">2023</div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>RedBird PhD Scholarship in HKUST</p>
+
+                    </div>
+                    <div class="time">2022</div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Outstanding Graduate of Shanghai (top 5%)</p>
+
+                    </div>
+                    <div class="time">2022</div>
+                </div>
+
+            </div>
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Excellent Student Award</p>
+
+                    </div>
+                    <div class="time">2021</div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>National Scholarship (top 1%)</p>
+
+                    </div>
+                    <div class="time">2021</div>
+                </div>
+
+            </div>
+
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Outstanding Undergraduate of Shanghai (top 5%)</p>
+
+                    </div>
+                    <div class="time">2019</div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Best Team Award in University of Cambridge as a Leader</p>
+
+                    </div>
+                    <div class="time">2018</div>
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="upper-row">
+                    <div class="name">
+                        <p>Third Class Undergraduate Scholarship</p>
+
+                    </div>
+                    <div class="time">2016-2018</div>
+                </div>
+
+            </div>
+
+        </section> -->
+
+
+    <!-- <script type="text/javascript" id="clustrmaps"
+            src="//clustrmaps.com/map_v2.js?d=8K2tegru5LAFfZ14AQiS-JA4NfnIMTw8dO7Bp2yIgzw&t=tt&cl=ffffff&w=200"></script>
+
+        </section> -->
+
+
+    <!-- 
+
+        <footer class="footer">
+            <div class="text-center">
+
+                <small id="copyright">
+                    Updated: 2023-09-22
+
+                    By Chuang Wang
+                </small>
+            </div>
+        </footer> -->
+
+</body>
+
+</html>
