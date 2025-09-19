@@ -12,9 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Chuang Wang / Academic page"
 title_separator          : "-"
 name                     : &name "Chuang Wang"
-description              : &description "I am a Master's student from Beihang University(BUAA). My supervisor is Associate Professor Qian Yu.
-                         And I am also an algorithm intern of AIsphere Tech, where I work on video generation. My mentors are Dongdong Yu and Jinxiao Lin. I got my Undergraduate's degree from the BUAA.
-                         Recently, my research focuses on <b>deep generative models(Diffusion models and its application) and sketch&SVG generation</b>."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I am a Master's student from Beihang University(BUAA). My supervisor is Associate Professor Qian Yu. And I am also an algorithm intern of AIsphere Tech, where I work on video generation. My mentors are Dongdong Yu and Jinxiao Lin. I got my Undergraduate's degree from the BUAA. Recently, my research focuses on <b>deep generative models(Diffusion models and its application) and sketch&SVG generation."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://chuangwang123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -36,9 +34,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com.hk/citations?user=e0W4Q90AAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-6418-9300"
-
-  # Social media
-  bilibili            : # 鲤鱼鲤鱼123
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
