@@ -56,7 +56,8 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 
 Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/abs/2312.16476))
+[**[Paper]**](https://arxiv.org/abs/2312.16476))&nbsp 
+[**[Code]**](https://github.com/ximinng/SVGDreamer))
 </div>
 </div>
 
@@ -68,7 +69,8 @@ Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>�
 
 Xingming Xing, **Chuang Wang**, Haitao Zhou, Jing Zhang, Qian Yu<sup>†</sup>, Dong Xu
 
-[**[Paper]**](https://arxiv.org/abs/2306.14685))
+[**[Paper]**](https://arxiv.org/abs/2306.14685))&nbsp 
+[**[Code]**](https://github.com/ximinng/DiffSketcher))
 </div>
 </div>
 
