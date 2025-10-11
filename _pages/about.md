@@ -49,6 +49,29 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/TrackGo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SVGDreamer: Text Guided SVG Generation with Diffusion Model**
+
+Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/abs/2312.16476))
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/TrackGo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Trackgo: A flexible and efficient method for controllable video generation**
+
+Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu<sup>†</sup>, Changhu Wang<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/pdf/2408.11475))
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
