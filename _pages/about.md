@@ -38,7 +38,7 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/TrackGo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/trackgo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Trackgo: A flexible and efficient method for controllable video generation**
@@ -49,7 +49,7 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer_cvpr2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SVGDreamer: Text Guided SVG Generation with Diffusion Model**
