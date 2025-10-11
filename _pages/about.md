@@ -30,7 +30,7 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis](https://arxiv.org/pdf/2505.19492)
+**ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis**
 
 **Chuang Wang<sup>*</sup>**, Haitao Zhou<sup>*</sup>, Ling Luo<sup>†</sup>, Qian Yu<sup>†</sup>
 
@@ -38,7 +38,7 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
