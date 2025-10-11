@@ -64,11 +64,11 @@ Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>�
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/TrackGo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Trackgo: A flexible and efficient method for controllable video generation**
+**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**
 
-Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu<sup>†</sup>, Changhu Wang<sup>†</sup>
+Xingming Xing, **Chuang Wang**, Haitao Zhou, Jing Zhang, Qian Yu<sup>†</sup>, Dong Xu
 
-[**[Paper]**](https://arxiv.org/pdf/2408.11475))
+[**[Paper]**](https://arxiv.org/abs/2306.14685))
 </div>
 </div>
 
