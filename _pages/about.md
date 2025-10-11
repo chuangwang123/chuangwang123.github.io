@@ -61,7 +61,7 @@ Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>â€
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/diffsketcher_nips2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/diffsketcher_nips2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**
