@@ -26,7 +26,7 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 - *2023.09*: &nbsp;🎉🎉 DiffSketcher was accepted by NeurIPS 2023.
 
 # 📝 Publications
-> <sup>*</sup>, † indicate corresponding Author
+> <sup>*</sup> indicate co-first author, † indicate corresponding Author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
