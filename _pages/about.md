@@ -27,6 +27,18 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/
+rxncaption.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**
+
+Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yinfan Wang, Hao Zheng, Xingjian Wei, Chengjin Liu, Junyuan Gao, Yubin Wang, Lijun Wu, Jiang Wu<sup>†</sup>, Qian Yu<sup>†</sup>, Conghui He<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/pdf/2511.02384))
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
