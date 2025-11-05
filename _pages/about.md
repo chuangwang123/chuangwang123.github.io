@@ -35,7 +35,7 @@ rxncaption.png' alt="sym" width="100%"></div></div>
 
 Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yinfan Wang, Hao Zheng, Xingjian Wei, Chengjin Liu, Junyuan Gao, Yubin Wang, Lijun Wu, Jiang Wu<sup>†</sup>, Qian Yu<sup>†</sup>, Conghui He<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/pdf/2511.02384))
+[**[Paper]**](https://arxiv.org/pdf/2511.02384)
 </div>
 </div>
 
