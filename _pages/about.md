@@ -46,7 +46,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 
 **Chuang Wang<sup>*</sup>**, Haitao Zhou<sup>*</sup>, Ling Luo<sup>†</sup>, Qian Yu<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/pdf/2505.19492))
+[**[Paper]**](https://arxiv.org/pdf/2505.19492))、
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 
 Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu<sup>†</sup>, Changhu Wang<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/pdf/2408.11475))
+[**[Paper]**](https://arxiv.org/pdf/2408.11475)
 </div>
 </div>
 
