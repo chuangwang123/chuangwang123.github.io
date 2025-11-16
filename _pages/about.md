@@ -26,8 +26,7 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/
-rxncaption.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rxncaption.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**
