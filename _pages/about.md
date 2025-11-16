@@ -64,15 +64,6 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/svgdreamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SVGDreamer: Text Guided SVG Generation with Diffusion Model**
-
-Xingming Xing, Haitao Zhou, **Chuang Wang**, Jing Zhang, Dong Xu, Qian Yu<sup>†</sup>
-
-[**[Paper]**](https://arxiv.org/abs/2312.16476)&nbsp; 
-[**[Code]**](https://github.com/ximinng/SVGDreamer)
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/diffsketcher_nips2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
