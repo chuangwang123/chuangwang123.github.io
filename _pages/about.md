@@ -20,13 +20,14 @@ redirect_from:
 I am a Master's student at Beihang University (BUAA), under the supervision of Associate Professor Qian Yu. Currently, I am an intern at the Shanghai Artificial Intelligence Laboratory, where I work on multimodal understanding and AI for Science under the guidance of Jiang Wu. My recent research interests include MLLM and multimodal understanding.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025. 
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
 - *2023.09*: &nbsp;🎉🎉 DiffSketcher was accepted by NeurIPS 2023.
 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rxncaption.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**
