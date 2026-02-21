@@ -20,7 +20,7 @@ redirect_from:
 I am a Master's student at Beihang University (BUAA), under the supervision of Associate Professor Qian Yu. Currently, I am an intern at the Shanghai Artificial Intelligence Laboratory, where I work on multimodal understanding and AI for Science under the guidance of Jiang Wu. My recent research interests include MLLM and multimodal understanding.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026. 
+- *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025. 
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
 - *2023.09*: &nbsp;🎉🎉 DiffSketcher was accepted by NeurIPS 2023.
