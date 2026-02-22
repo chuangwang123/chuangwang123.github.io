@@ -23,7 +23,6 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 - *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026. 
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025. 
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
-- *2023.09*: &nbsp;🎉🎉 DiffSketcher was accepted by NeurIPS 2023.
 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
