@@ -26,6 +26,20 @@ I am a Master's student at Beihang University (BUAA), under the supervision of A
 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
+
+## VLLM & AI4S
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/idtvp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**
+
+Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui Nie, Bowen Jiang, Xingjian Wei, Junyuan Gao, Yubin Wang, Bin Wang, Lijun Wu, Jiang Wu, Qian Yu, Conghui He
+
+[**[Paper]**](https://arxiv.org/abs/2603.15011)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,6 +50,10 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 [**[Paper]**](https://arxiv.org/pdf/2511.02384)
 </div>
 </div>
+
+---
+
+## Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,27 +77,9 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/diffsketcher_nips2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**
-
-Xingming Xing, **Chuang Wang**, Haitao Zhou, Jing Zhang, Qian Yu<sup>†</sup>, Dong Xu
-
-[**[Paper]**](https://arxiv.org/abs/2306.14685)&nbsp;
-[**[Code]**](https://github.com/ximinng/DiffSketcher)
-</div>
-</div> -->
-
-
-
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Beihang University. 
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, master student of the School of Software, Beihang University. 
-- *2018.09 - 2023.06*, undergraduate student of the School of Software, Beihang University. 
-
-# 💻 Internships
-- *2023.04 - 2025.03*, AISHI Tech, China.
-- *2025.05 - now*, ShangHai AI Lab
+- *2018.09 - 2023.06*, undergraduate student of the School of Software, Beihang University.
