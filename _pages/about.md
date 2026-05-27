@@ -1,85 +1,30 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-I am a Master's student at Beihang University (BUAA), under the supervision of Associate Professor Qian Yu. Currently, I am an intern at the Shanghai Artificial Intelligence Laboratory, where I work on multimodal understanding and AI for Science under the guidance of Jiang Wu. My recent research interests include MLLM and multimodal understanding.
-
-# 🔥 News
-- *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026. 
-- *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025. 
-- *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
-
-# 📝 Publications
-> <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding Author
-
-## VLLM & AI4S
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/idtvp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**
-
-Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui Nie, Bowen Jiang, Xingjian Wei, Junyuan Gao, Yubin Wang, Bin Wang, Lijun Wu, Jiang Wu, Qian Yu, Conghui He
-
-[**[Paper]**](https://arxiv.org/abs/2603.15011)
-</div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var toggle = document.getElementById("publication-toggle");
+    var additionalPublications = document.getElementById("additional-publications");
 
-**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**
+    if (!toggle || !additionalPublications) {
+      return;
+    }
 
-Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yinfan Wang, Hao Zheng, Xingjian Wei, Chengjin Liu, Junyuan Gao, Yubin Wang, Lijun Wu, Jiang Wu<sup>†</sup>, Qian Yu<sup>†</sup>, Conghui He<sup>†</sup>
+    toggle.addEventListener("click", function () {
+      var isExpanded = toggle.getAttribute("aria-expanded") === "true";
 
-[**[Paper]**](https://arxiv.org/pdf/2511.02384)
-</div>
-</div>
-
----
-
-## Generation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**ViewCraft3D: High-Fidelity and View-Consistent 3D Vector Graphics Synthesis**
-
-**Chuang Wang<sup>*</sup>**, Haitao Zhou<sup>*</sup>, Ling Luo<sup>†</sup>, Qian Yu<sup>†</sup>
-
-[**[Paper]**](https://arxiv.org/pdf/2505.19492)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/trackgo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Trackgo: A flexible and efficient method for controllable video generation**
-
-Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu<sup>†</sup>, Changhu Wang<sup>†</sup>
-
-[**[Paper]**](https://arxiv.org/pdf/2408.11475)
-</div>
-</div>
+      additionalPublications.hidden = isExpanded;
+      toggle.setAttribute("aria-expanded", String(!isExpanded));
+      toggle.textContent = isExpanded ? "Show more publications" : "Hide additional publications";
+    });
+  });
+</script>
 
 # 🎖 Honors and Awards
-- *2023.06* Outstanding graduate of Beihang University. 
+- *2026.06* Outstanding Graduate of Beihang University (Master's).
+- *2023.06* Outstanding Graduate of Beihang University (Bachelor's).
 
-# 📖 Educations
-- *2023.09 - 2026.06 (now)*, master student of the School of Software, Beihang University. 
-- *2018.09 - 2023.06*, undergraduate student of the School of Software, Beihang University.
+# 📖 Education
+- *2026.09 - incoming*, Ph.D. student at Shanghai Jiao Tong University, jointly trained with Shanghai Artificial Intelligence Laboratory.
+- *2023.09 - 2026.06*, M.S. student, School of Software, Beihang University.
+- *2018.09 - 2023.06*, B.S. student, School of Software, Beihang University.
