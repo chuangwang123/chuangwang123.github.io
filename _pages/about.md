@@ -44,6 +44,7 @@ redirect_from:
 I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory, under the supervision of Jiang Wu and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu. My research focuses on Generation and AI for Science, and I am also deeply interested in agentic AI systems.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025.
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
@@ -96,7 +97,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 
 ## Other Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/idtvp.png' alt="Molecular Identifier Visual Prompt" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/idtvp.png' alt="Molecular Identifier Visual Prompt" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**
