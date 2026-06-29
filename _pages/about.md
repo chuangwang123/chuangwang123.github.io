@@ -41,7 +41,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory, under the supervision of Jiang Wu and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu. My research focuses on Generation and AI for Science, and I am also deeply interested in agentic AI systems.
+I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory, under the supervision of Jiang Wu and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu. My research focuses on Generation and agentic AI.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
