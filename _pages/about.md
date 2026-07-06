@@ -41,13 +41,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisor is Weijia Li, and I am jointly supervised by Conghui He. Before starting my Ph.D., I worked with Jiang Wu at Shanghai Artificial Intelligence Laboratory as a pre-Ph.D. intern. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
+I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisor is Weijia Li, and I am jointly supervised by Conghui He. During my pre-Ph.D. internship at Shanghai Artificial Intelligence Laboratory, I was supervised by Jiang Wu. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
 
-My current research centers on generative AI and agentic AI systems. I am interested in controllable visual generation, 3D/video generation, multimodal creation, and agents that can perceive, plan, use tools, and collaborate with generative models. Earlier, I also worked on chemical reaction diagram understanding and multimodal parsing.
+My current research interests lie in computer vision, with a focus on 3D generation, agentic AI, and world models. I am interested in building generative and agentic systems that can perceive, reason, plan, and interact with visual and 3D environments. Earlier, I also worked on chemical reaction diagram understanding and multimodal parsing.
 
 # 🔍 Research Interests
-- **Generative AI**: controllable image/video generation, 3D and vector graphics synthesis, multimodal generation and editing.
-- **Agentic AI Systems**: multimodal agents, tool-using agents, planning, evaluation, and generation-driven workflows.
+- **Computer Vision and 3D Generation**: visual generation, 3D/video generation, controllable content creation, and multimodal visual understanding.
+- **Agentic AI and World Models**: multimodal agents, planning, tool use, interactive world modeling, and generation-driven workflows.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
