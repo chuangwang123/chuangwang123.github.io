@@ -41,17 +41,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisors are Weijia Li and Conghui He. During my pre-Ph.D. internship at Shanghai Artificial Intelligence Laboratory, I was supervised by Jiang Wu. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
+I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisors are Jiang Wu, Weijia Li, and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
 
-My current research interests lie in computer vision, with a focus on 3D generation, agentic AI, and world models. I am interested in building generative and agentic systems that can perceive, reason, plan, and interact with visual and 3D environments. Earlier, I also worked on chemical reaction diagram understanding and multimodal parsing.
+My research interests include computer vision, 3D generation, agentic AI, and world models.
 
 # 🔍 Research Interests
-- **Computer Vision and 3D Generation**: visual generation, 3D/video generation, controllable content creation, and multimodal visual understanding.
-- **Agentic AI and World Models**: multimodal agents, planning, tool use, interactive world modeling, and generation-driven workflows.
+- **Computer Vision and 3D Generation**: visual generation, 3D/video generation, and multimodal visual understanding.
+- **Agentic AI and World Models**: multimodal agents, planning, tool use, and world modeling.
 
 # 🔥 News
+{% comment %}
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026.
+{% endcomment %}
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025.
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
 
@@ -82,6 +84,7 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
+{% comment %}
 ## Previous Work: Multimodal Understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="RxnCaption" width="100%"></div></div>
@@ -134,6 +137,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui
     });
   });
 </script>
+{% endcomment %}
 
 # 🎖 Honors and Awards
 - *2026.06* Outstanding Graduate of Beihang University (Master's).
