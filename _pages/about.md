@@ -139,7 +139,14 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui
 - *2026.06* Outstanding Graduate of Beihang University (Master's).
 - *2023.06* Outstanding Graduate of Beihang University (Bachelor's).
 
-# 📖 Education
+# 📖 Educations
 - *2026.09 - incoming*, Ph.D. student at Shanghai Jiao Tong University, jointly trained with Shanghai Artificial Intelligence Laboratory.
 - *2023.09 - 2026.06*, M.S. student, School of Software, Beihang University.
 - *2018.09 - 2023.06*, B.S. student, School of Software, Beihang University.
+
+# 🎙 Invited Talks
+- None.
+
+# 💼 Internships
+- AIsphere (爱诗科技).
+- Shanghai Artificial Intelligence Laboratory.
