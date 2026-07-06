@@ -41,7 +41,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory, under the supervision of Jiang Wu and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu. My research focuses on Generation and agentic AI.
+I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisor is Weijia Li, and I am jointly supervised by Conghui He. Before starting my Ph.D., I worked with Jiang Wu at Shanghai Artificial Intelligence Laboratory as a pre-Ph.D. intern. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
+
+My current research centers on generative AI and agentic AI systems. I am interested in controllable visual generation, 3D/video generation, multimodal creation, and agents that can perceive, plan, use tools, and collaborate with generative models. Earlier, I also worked on chemical reaction diagram understanding and multimodal parsing.
+
+# 🔍 Research Interests
+- **Generative AI**: controllable image/video generation, 3D and vector graphics synthesis, multimodal generation and editing.
+- **Agentic AI Systems**: multimodal agents, tool-using agents, planning, evaluation, and generation-driven workflows.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
@@ -52,7 +58,7 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly 
 # 📝 Publications
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding author
 
-## Generation
+## Generative AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="ViewCraft3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +82,7 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
-## AI4S & Multimodal Understanding
+## Previous Work: Multimodal Understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="RxnCaption" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +101,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 
 <div id="additional-publications" hidden markdown="1">
 
-## Other Publications
+## Additional Previous Work
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/idtvp.png' alt="Molecular Identifier Visual Prompt" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

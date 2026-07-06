@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Chuang Wang"
-description              : "Chuang Wang's personal academic homepage"
-repository               : "https://github.com/chuangwang123/chuangwang123.github.io"
+description              : "Generative AI and agentic systems"
+repository               : "chuangwang123/chuangwang123.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chuang Wang"
   avatar           : "images/pika.png"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
+  bio              : "Incoming Ph.D. @ SJTU / Shanghai AI Lab"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=e0W4Q90AAAAJ&hl=zh-CN"
