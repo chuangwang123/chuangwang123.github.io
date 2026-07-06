@@ -84,8 +84,13 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 </div>
 </div>
 
-{% comment %}
-## Previous Work: Multimodal Understanding
+<button id="publication-toggle" class="publication-toggle" type="button" aria-expanded="false" aria-controls="additional-publications">
+  Show previous publications
+</button>
+
+<div id="additional-publications" hidden markdown="1">
+
+## Previous Work
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rxncaption.png' alt="RxnCaption" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,14 +102,6 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 [**[Paper]**](https://arxiv.org/pdf/2511.02384)
 </div>
 </div>
-
-<button id="publication-toggle" class="publication-toggle" type="button" aria-expanded="false" aria-controls="additional-publications">
-  Show more publications
-</button>
-
-<div id="additional-publications" hidden markdown="1">
-
-## Additional Previous Work
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/idtvp.png' alt="Molecular Identifier Visual Prompt" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -133,11 +130,10 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui
 
       additionalPublications.hidden = isExpanded;
       toggle.setAttribute("aria-expanded", String(!isExpanded));
-      toggle.textContent = isExpanded ? "Show more publications" : "Hide additional publications";
+      toggle.textContent = isExpanded ? "Show previous publications" : "Hide previous publications";
     });
   });
 </script>
-{% endcomment %}
 
 # 🎖 Honors and Awards
 - *2026.06* Outstanding Graduate of Beihang University (Master's).
