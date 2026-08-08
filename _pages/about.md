@@ -41,7 +41,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisors are Jiang Wu, Weijia Li, and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
+I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), jointly trained with the Shanghai Artificial Intelligence Laboratory. My Ph.D. advisors are Jiang Wu, Weijia Li, and Conghui He. Before that, I received my Master's degree from Beihang University (BUAA), where I was supervised by Associate Professor Qian Yu.
 
 My research interests include computer vision, 3D generation, agentic AI, and world models.
 
@@ -50,17 +50,29 @@ My research interests include computer vision, 3D generation, agentic AI, and wo
 - **Agentic AI and World Models**: multimodal agents, planning, tool use, and world modeling.
 
 # 🔥 News
-{% comment %}
+- *2026.08*: &nbsp;🎉🎉 EditFlow3D is available on arXiv.
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026.
-{% endcomment %}
 - *2025.09*: &nbsp;🎉🎉 ViewCraft3D was accepted by NeurIPS 2025.
 - *2024.12*: &nbsp;🎉🎉 TrackGo was accepted by AAAI 2025.
 
 # 📝 Publications
-> <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding author
+> <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding author, <sup>‡</sup> indicate project lead
 
 ## Generative AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://arxiv.org/html/2608.03179v1/x1.png' alt="EditFlow3D" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EditFlow3D: Automated Local Editing of 3D Assets with Trajectory Preservation**
+
+Rui Nie, **Chuang Wang<sup>‡</sup>**, Haitao Zhou, Jiahe Song, Buyu Li, Sheng Wang, Qian Yu<sup>†</sup>
+
+Project lead. Training-free local 3D asset editing with VLM-driven editing control construction, mask-guided differential flow, and trajectory preservation.
+
+[**[Paper]**](https://arxiv.org/pdf/2608.03179)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/viewcraft3D.png' alt="ViewCraft3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -140,7 +152,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui
 - *2023.06* Outstanding Graduate of Beihang University (Bachelor's).
 
 # 📖 Educations
-- *2026.09 - incoming*, Ph.D. student at Shanghai Jiao Tong University, jointly trained with Shanghai Artificial Intelligence Laboratory.
+- *2026.09 - Present*, Ph.D. student at Shanghai Jiao Tong University, jointly trained with Shanghai Artificial Intelligence Laboratory.
 - *2023.09 - 2026.06*, M.S. student, School of Software, Beihang University.
 - *2018.09 - 2023.06*, B.S. student, School of Software, Beihang University.
 
