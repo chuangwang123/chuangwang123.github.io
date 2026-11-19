@@ -50,6 +50,7 @@ My research interests include computer vision, 3D generation, agentic AI, and wo
 - **Agentic AI and World Models**: multimodal agents, planning, tool use, and world modeling.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 StrideWorld is available on arXiv, with code, data, and leaderboard released.
 - *2026.08*: &nbsp;🎉🎉 EditFlow3D is available on arXiv.
 - *2026.02*: &nbsp;🎉🎉 RxnID was accepted by ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 RxnCaption was accepted by CVPR 2026.
@@ -60,6 +61,19 @@ My research interests include computer vision, 3D generation, agentic AI, and wo
 > <sup>*</sup> indicate co-first author, <sup>†</sup> indicate corresponding author, <sup>‡</sup> indicate project lead
 
 ## Generative AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/strideworld.png' alt="StrideWorld benchmark overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Models**
+
+**Chuang Wang**, Rui Nie, Jie Song, Junyuan Gao, Jiahe Song, Haitao Zhou, Boyu Zhu, Xing Li, Jiang Wu, Conghui He, Qian Yu, Weijia Li
+
+A benchmark for scene rigidity and action consistency in interactive video world models, using references fixed before the motion they evaluate.
+
+[**[Paper]**](https://arxiv.org/abs/2611.24408) [**[Code]**](https://github.com/chuangwang123/strideworld) [**[Data]**](https://huggingface.co/datasets/strideworld-release/strideworld) [**[Leaderboard]**](https://huggingface.co/spaces/strideworld-release/strideworld-leaderboard)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://arxiv.org/html/2608.03179v1/x1.png' alt="EditFlow3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,7 +125,7 @@ Haitao Zhou<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Rui Nie, Jinxiao Lin, Dong
 
 Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yinfan Wang, Hao Zheng, Xingjian Wei, Chengjin Liu, Junyuan Gao, Yubin Wang, Lijun Wu, Jiang Wu<sup>†</sup>, Qian Yu<sup>†</sup>, Conghui He<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/pdf/2511.02384)
+[**[Paper]**](https://arxiv.org/pdf/2511.02384) [**[Code]**](https://github.com/opendatalab/RxnCaption)
 </div>
 </div>
 
@@ -122,7 +136,7 @@ Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Bowen Jiang<sup>*</sup>, Yi
 
 Jiahe Song<sup>*</sup>, **Chuang Wang<sup>*</sup>**, Yinfan Wang, Hao Zheng, Rui Nie, Bowen Jiang, Xingjian Wei, Junyuan Gao, Yubin Wang, Bin Wang, Lijun Wu, Jiang Wu, Qian Yu, Conghui He
 
-[**[Paper]**](https://arxiv.org/abs/2603.15011)
+[**[Paper]**](https://arxiv.org/abs/2603.15011) [**[Code]**](https://github.com/opendatalab/RxnID)
 </div>
 </div>
 
